@@ -2,3 +2,5 @@ __pycache__/
 env.py
 dbase.db
 wiresyncclient.log
+db.sqlite3
+
